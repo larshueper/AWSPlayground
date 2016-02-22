@@ -1,0 +1,4 @@
+#!/bin/sh
+yum -y install git
+git clone https://github.com/larshueper/AWSPlayground.git /mnt/lucee/git/AWSPlayground
+cp -R /mnt/lucee/git/AWSPlayground/lucee/** mnt/lucee/webapp/
