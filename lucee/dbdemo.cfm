@@ -10,10 +10,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Facebook and Cognito Demo</title>
-    <script type="text/javascript" src="js/aws-sdk-2.2.37.js"></script>
-    <script type="text/javascript" src="js/amazon-cognito.min.js"></script>
-    <script type="text/javascript" src="js/cognito_demo.js"></script>
+    <title>RDS Demo</title>
 </head>
 <body>
 
