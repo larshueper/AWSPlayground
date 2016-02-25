@@ -175,7 +175,7 @@
          <Alias>lucee.awsplayground.net</Alias>
          <Alias>lucee-node1.awsplayground.net</Alias>
          <Alias>lucee-node2.awsplayground.net</Alias>
-         <Alias>lucee-awsplaygroundaad.cloudfront.net</Alias>
+         <Alias>lucee-awsplayground.cloudfront.net</Alias>
       </Host>
     </Engine>
   </Service>
