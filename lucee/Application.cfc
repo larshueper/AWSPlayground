@@ -9,7 +9,7 @@ component {
         class: 'org.gjt.mm.mysql.Driver'
         , connectionString: 'jdbc:mysql://lhplayground-mysql.caiv4l8emws2.eu-west-1.rds.amazonaws.com:3306/luceedb?useUnicode=true&characterEncoding=UTF-8&useLegacyDatetimeCode=true'
         , username: 'lhadmin'
-        , password: "encrypted:a6e1b2b39302afe5ec96af8384a4ba701cb473c12bb4cdcf8d167cc52cc8a6c2"
+        , password: "encrypted:373628f3978e1e475f2c7b43573d6849a92a08acb075e92a9173ca83aba29d6e0704e0472fb83c0b"
         , clob:true
     };
 
